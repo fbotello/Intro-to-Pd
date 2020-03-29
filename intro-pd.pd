@@ -1,5 +1,7 @@
-#N canvas 1038 32 594 305 10;
-#X obj 90 18 Intro to Pure Data_;
-#X text 14 51 francisco botello francisco@whaterverspace.org venmo:
-@estoy_s instagram: @siempreviendo @whateverspacepdx whateverspace.org
-;
+#N canvas 391 11 587 322 10;
+#X obj 93 18 Intro to Pure Data_;
+#X text 14 49 francisco botello francisco@whaterverspace.org;
+#X text 14 70 venmo: ....@estoy_s;
+#X text 14 89 instagram: @siempreviendo @whateverspacepdx;
+#X text 14 108 whateverspace.org;
+#X text 13 132 example patch: github.com/fbotello/Intro-to-Pd;
